@@ -14,7 +14,7 @@
 ### Oh My Zsh
 
 ```bash
-git clone https://github.com/<your-user>/brightnessctl-completion \
+git clone https://github.com/mejistus/brightnessctl-completion \
   ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/brightnessctl-completion
 ```
 
